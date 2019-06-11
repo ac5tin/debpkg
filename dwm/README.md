@@ -12,6 +12,7 @@
 ### restartsig
 ### grid
 ### gapless grid
+### useless gaps
 
 # other notes
 ## font : mononoki : 12
