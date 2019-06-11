@@ -10,3 +10,8 @@
 ### bottom stack
 ### vanity gaps
 ### restartsig
+### grid
+### gapless grid
+
+# other notes
+## font : mononoki : 12
